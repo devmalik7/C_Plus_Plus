@@ -1,4 +1,3 @@
-1 2 3 4 5
 1 2 3 4 
 1 2 3
 1 2
@@ -10,7 +9,7 @@
 
 #include <iostream>
 using namespace std;
-int main() 
+void main() 
 {
 
     int n;
@@ -24,5 +23,4 @@ int main()
         }
         cout << "\n";
     }
-    return 0;
 }
