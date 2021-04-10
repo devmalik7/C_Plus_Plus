@@ -6,9 +6,6 @@ E E E E E
 
 
 
-
-
-
 #include <iostream>
 using namespace std;
 
